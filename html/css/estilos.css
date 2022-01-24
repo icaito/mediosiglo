@@ -1,0 +1,32 @@
+h1
+{
+	font-size: 50px;
+	font-family: 'Franklin Gothic Medium';
+	font-weight: 50px;
+}
+
+h2
+{
+	font-size: 25px;
+}
+
+header, section, footer, nav, aside, article, hgroup
+{
+	border: 2px solid blue;
+}
+
+body
+{
+	text-align: center;
+	color: white;
+}
+
+div
+{
+	background: gray;
+}
+
+.menu li
+{
+	padding: 5px;
+}
